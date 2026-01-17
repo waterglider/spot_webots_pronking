@@ -1,0 +1,1 @@
+Webots Spot Pronking simulation
